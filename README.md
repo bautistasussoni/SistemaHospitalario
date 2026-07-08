@@ -34,4 +34,7 @@ Este sistema interactivo por consola permite administrar la atención diaria de 
 2. Abrir una terminal (consola) y navegar hasta la carpeta donde se encuentra el archivo.
 3. Ejecutar el siguiente comando:
    ```bash
+   ## 🎥 Video Demo del Sistema
+El video con la explicación del sistema y los casos de prueba se puede ver en el siguiente enlace:
+[Ver Video Demo - Grupo ISI K1.1](https://drive.google.com/drive/folders/15AItyIVKg_gwS7GjztES5e_Ifr7ht9Rs)
    python sistema_turnos_hospitalarios.py
